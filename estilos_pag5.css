@@ -1,0 +1,101 @@
+
+*{
+	margin: 0;
+	padding: 0;
+    box-sizing: border-box;}
+
+#contenedor {
+    background-color: white;
+	width: 1000px;
+	margin: 20px auto;
+	padding: 20px;
+    margin-bottom: 0;
+}
+body{
+    background-color: #007bcd;
+}
+.banner{
+    background: url(../img/bannerr.jpg);
+    height: 250px;
+   
+
+
+}
+
+#menu{
+    background-color: #007bcd;
+    padding: 20px;
+    text-align: center;
+
+}
+#menu a {
+	color:#FFF;
+	text-decoration: none;
+	font-size: 16px;
+	padding: 10px 52px;
+    font-family: arial;
+
+}
+
+#cuerpo{
+    background: url(../img/fondo2.jpg);
+
+    height: 540px;
+}
+#cuerpo img{
+    margin:130px 29px;
+  
+}
+.texto{
+    background-color: ;
+    width: 410px;
+    padding: 2px;
+    float: right;
+    margin-top: 55px;
+    margin-right: 26px;
+    font-family: arial;
+    font-size: 15px;
+    color: white;
+    
+}
+#formulario{
+    margin-top: 20px;
+    padding:40px 0;
+    background-image: url(../img/form.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: arial, sans-serif;
+    color: aliceblue;
+
+    height: 290px;
+}
+
+#formulario fieldset{
+    padding: 20px;
+    border-radius: 20px;
+    width: 500px;
+    margin: auto;
+
+
+}
+
+
+#footer{ 
+    background: #103BCB ;
+    clear: both;
+    font-size: 14px;
+    padding: 10px 20px;
+    width: 1000px;
+    margin: auto;
+
+}
+#copy, #parrafos{
+    width: 50%;
+    display: inline-block;
+    vertical-align: middle;
+
+    }
+#parrafos{
+    text-align: right;
+}
+

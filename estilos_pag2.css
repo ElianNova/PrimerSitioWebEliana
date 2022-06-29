@@ -1,0 +1,116 @@
+*{
+	margin: 0;
+	padding: 0;
+    box-sizing: border-box;}
+
+#contenedor {
+    background-color: white;
+	width: 1000px;
+	margin: 20px auto;
+	padding: 20px;
+    margin-bottom: 0;
+}
+.banner{
+    background: url(../img/bannerr.jpg);
+    height: 250px;
+   
+}
+#menu{
+    background-color: #007bcd;
+    padding: 20px;
+    text-align: center;
+
+}
+#menu a {
+	color:#FFF;
+	text-decoration: none;
+	font-size: 16px;
+	padding: 10px 52px;
+    font-family: arial;
+
+}
+body{
+    background-color: #007bcd;
+}
+#caja1{
+	background-color: dodgerblue;
+	height: 75px;}
+#caja1 h1{
+	text-align: center;
+	padding:20px 0;
+	color: #FFF;
+	font-family: arial;
+}
+
+#caja1 iframe{
+	width: 960px;
+		
+}
+#caja2{
+background-color:  #007bcd;
+
+	height: 220px;
+	font-family: arial;
+	
+
+}
+#caja2 p{
+	padding: 20px;
+	color: #fff;
+}
+#caja3{
+	background: url(../img/pixarr.jpg);
+    background-size:auto;
+    background-position: 380px 80px;
+    background-repeat: no-repeat;
+	background-attachment: fixed;
+	height: 220px;
+}
+#caja4{
+height: 270px;
+background: url(../img/pared.jpg);
+
+background-size: 100%;
+
+
+}
+
+.img1, .img2, .img3{
+	width: 100px;
+	background-color: red;
+    width: 277px;
+    height: 230px;
+    margin: 20px;
+    display: inline-block;
+}
+.img1{
+	background: url(../img/nemo.jpg);
+}
+.img2{
+	background: url(../img/remi.jpg);
+
+}
+.img3{
+	background: url(../img/walle.jpg);
+
+}
+
+
+#footer{ 
+    background: #103BCB ;
+    clear: both;
+    font-size: 14px;
+    padding: 10px 20px;
+    width: 1000px;
+    margin: auto;
+
+}
+#copy, #parrafos{
+    width: 50%;
+    display: inline-block;
+    vertical-align: middle;
+
+    }
+#parrafos{
+    text-align: right;
+}

@@ -1,0 +1,129 @@
+*{
+	margin: 0;
+	padding: 0;
+    box-sizing: border-box;}
+
+#contenedor {
+    background-color: white;
+	width: 1000px;
+	margin: 20px auto;
+	padding: 20px;
+    margin-bottom: 0;
+}
+.banner{
+    background: url(../img/bannerr.jpg);
+    height: 250px;
+   
+}
+#menu{
+    background-color: #007bcd;
+    padding: 20px;
+    text-align: center;
+
+}
+#menu a {
+	color:#FFF;
+	text-decoration: none;
+	font-size: 16px;
+	padding: 10px 52px;
+    font-family: arial;
+
+}
+body{
+    background-color: #007bcd;
+}
+#caja1{
+	
+	height: 315px;}
+
+
+#caja1 iframe{
+	width: 100%;
+padding-top: 30px;}
+
+#caja2{
+background-color: #007bcd ;
+	height: 150px;
+	font-family: arial;
+	margin-bottom: 30px;
+
+}
+#caja2 p{
+	padding: 20px;
+	color: #fff;
+}
+
+#caja3{
+height: 430px;
+background-color: #9AC1E7 ;
+background-size: 100%;
+}
+#caja3 h1{
+	text-align: center;
+	font-family: arial;
+	color: #004585 ;
+    padding-top: 20px;
+}
+#caja3 p{
+	padding: 15px 20px 0 20px;
+	font-family: arial;
+	color: black;
+}
+
+.img1, .img2, .img3{
+	width: 100px;
+	background-color: red;
+    width: 277px;
+    height: 230px;
+    margin: 20px;
+    display: inline-block;
+}
+.img1{
+	background: url(../img/carro.jpg);
+}
+.img2{
+	background: url(../img/university.jpg);
+
+}
+.img3{
+	background: url(../img/work.jpg);
+
+}	
+
+#caja3 h2{
+    color: #004585 ;
+    display: inline;
+    font-family: arial;
+    font-style: italic;
+    font-size: 18px;
+
+}
+.Carro{
+    margin-left: 50px;
+}
+.University{
+    margin-left: 140px;
+}
+.Work{
+    margin-left: 150px;}
+
+
+#footer{ 
+    background: #103BCB ;
+    clear: both;
+    font-size: 14px;
+    padding: 10px 20px;
+    width: 1000px;
+    margin: auto;
+
+}
+#copy, #parrafos{
+    width: 50%;
+    display: inline-block;
+    vertical-align: middle;
+
+    }
+#parrafos{
+    text-align: right;
+}
+		

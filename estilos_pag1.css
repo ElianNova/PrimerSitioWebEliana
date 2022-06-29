@@ -1,0 +1,139 @@
+*{
+	margin: 0;
+	padding: 0;
+    box-sizing: border-box;}
+
+#contenedor {
+    background-color: white;
+	width: 1000px;
+	margin: 20px auto;
+	padding: 20px;
+    margin-bottom: 0;
+}
+body{
+    background-color: #007bcd;
+}
+.banner{
+    background: url(../img/bannerr.jpg);
+    height: 250px;
+   
+
+
+}
+
+#menu{
+    background-color: #007bcd;
+    padding: 20px;
+    text-align: center;
+
+}
+#menu a {
+	color:#FFF;
+	text-decoration: none;
+	font-size: 16px;
+	padding: 10px 52px;
+    font-family: arial;
+
+}
+
+.banner2{
+    background: url(../img/cama.jpg);
+
+    height: 320px;
+
+    
+}
+#cuerpo{
+    background: url(../img/cuerpo.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 420px;
+}
+#cuerpo img{
+    margin:70px 29px;
+  
+}
+.texto{
+    background-color: ;
+    width: 410px;
+    padding: 2px;
+    float: right;
+    margin-top: 55px;
+    margin-right: 26px;
+    font-family: arial;
+    font-size: 15px;
+    color: white;
+    
+}
+#caja{
+    height: 420px;
+    background: url(../img/fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: -100px 0;
+    
+
+}
+#caja h1{
+    color: white;
+    text-align: center;
+    font-family: arial;
+    padding: 20px
+}
+.gif1, .gif2, .gif3{
+    background-color: red;
+    width: 277px;
+    height: 230px;
+    margin: 20px;
+    display: inline-block;
+}
+.gif1{
+    background: url(../img/boo.gif);
+    background-repeat: no-repeat;
+    background-position:-100px -2px;
+}
+.gif2{
+    background: url(../img/sulley.gif);
+    background-repeat: no-repeat;
+    background-position:-100px -2px;
+}
+.gif3{
+    background: url(../img/mike.gif);
+    background-repeat: no-repeat;
+    background-position: -100px -10px;
+}
+#caja h2{
+    color: white;
+    display: inline;
+    font-family: arial;
+    font-style: italic;
+
+}
+.Boo{
+    margin-left: 130px;
+}
+.Sullivan {
+    margin-left: 250px;
+}
+.Mike {
+    margin-left: 190px;
+}
+#footer{ 
+    background: #103BCB ;
+    clear: both;
+    font-size: 14px;
+    padding: 10px 20px;
+    width: 1000px;
+    margin: auto;
+
+}
+#copy, #parrafos{
+    width: 50%;
+    display: inline-block;
+    vertical-align: middle;
+
+    }
+#parrafos{
+    text-align: right;
+}
